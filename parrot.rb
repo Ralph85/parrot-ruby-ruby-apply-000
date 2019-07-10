@@ -1,6 +1,6 @@
-def parrot(squawk)
+def parrot_ruby(squawk)
   puts squawk
   return
 end
 
-parrot("chill")
+parrot_ruby("chill")
